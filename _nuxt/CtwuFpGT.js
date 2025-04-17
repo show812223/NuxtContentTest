@@ -1,0 +1,1 @@
+import t from"./pPPtT8Bo.js";import{_,p as c,o as n}from"./yn6FdaYY.js";import"./CZr1N3ii.js";import"./DV84Ggb9.js";const e={};function r(p,a){const o=t;return n(),c(o,{path:"/zh-tw/bim"})}const d=_(e,[["render",r]]);export{d as default};
